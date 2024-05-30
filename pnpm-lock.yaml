@@ -8,6 +8,9 @@ dependencies:
   clsx:
     specifier: ^2.0.0
     version: 2.1.1
+  leopard:
+    specifier: ^1.6.1
+    version: 1.6.1
   lucide-react:
     specifier: ^0.376.0
     version: 0.376.0(react@18.3.1)
@@ -5731,6 +5734,10 @@ packages:
     dependencies:
       language-subtag-registry: 0.3.22
     dev: true
+
+  /leopard@1.6.1:
+    resolution: {integrity: sha512-u3Rz//U/rf5suVuXHyEXc2N3sEBIvTWaGoSXMq99fJw9nWF2c5EuWtXOrtO6xNPyZav76tbvRvB99CyeKxDT5g==}
+    dev: false
 
   /leven@3.1.0:
     resolution: {integrity: sha512-qsda+H8jTaUaN/x5vzW2rzc+8Rw4TAQ/4KjB46IwK5VH+IlVeeeje/EoZRpiXvIqjFgK84QffqPztGI3VBLG1A==}
